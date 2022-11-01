@@ -8,3 +8,6 @@ pet_num = 1
 
 balance = 12000.50
 ammount_due = 9999.50
+
+deposit_paid = false
+payment_plan = true
